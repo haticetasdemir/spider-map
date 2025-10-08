@@ -25,6 +25,20 @@
         "Donatılar": "",
       }
     },
+      "properties": {
+        "name": "Halk Konut 11",
+        "İl": "İzmir",
+        "İlçe": "Konak",
+        "Mahalle": "Güneşli",
+        "Ada": "6885",
+        "ParselNo": "18",
+        "Alan": "500",
+        "Pafta": "723 Plan",
+        "Nitelik": "Arsa",
+        "Mevkii": "",
+        "Donatılar": "",
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -1043,6 +1057,7 @@
     }
   ]
 }
+
 
 
 
