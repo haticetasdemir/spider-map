@@ -59,6 +59,35 @@
       }
     },
     {
+      "type":"Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [27.1874,38.45965],
+            [27.18695,38.45946],
+            [27.1872,38.45908],
+            [27.18761,38.45928],
+            [27.18754,38.4594],
+            [27.1875,38.45946],
+            [27.1874,38.45965]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "ÖZKANLAR 32",
+        "İl": "İzmir",
+        "İlçe": "Bayraklı",
+        "Mahalle": "Manavkuyu",
+        "Ada": "68",
+        "ParselNo": "119",
+        "Alan": "2.008,00",
+        "Pafta": "15",
+        "Nitelik": "Arsa",
+        "Mevkii": ""
+      }
+    },
+    {
       "type": "Feature",
       "geometry": {
         "type": "Polygon",
@@ -1503,6 +1532,7 @@
     }
   ]
 }
+
 
 
 
