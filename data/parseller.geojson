@@ -58,6 +58,61 @@
         "Mevkii": ""
       }
     },
+  {
+      "type":"Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [27.09297,38.46125],
+            [27.09309,38.4614],
+            [27.09282,38.46154],
+            [27.0927,38.46139],
+            [27.09297,38.46125]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "TÜRKYILMAZ APARTMANI",
+        "İl": "İzmir",
+        "İlçe": "Karşıyaka",
+        "Mahalle": "Şemikler",
+        "Ada": "",
+        "ParselNo": "1960",
+        "Alan": "562,00",
+        "Pafta": "41",
+        "Nitelik": "5 Katlı Betonarme Apartman Ve Arsası",
+        "Mevkii": ""
+      }
+    },
+  {
+      "type":"Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [27.13844,38.43244],
+            [27.13849,38.43254],
+            [27.13824,38.43269],
+            [27.1381,38.43254],
+            [27.13834,38.43241],
+            [27.13844,38.43244]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SES APARTMANI",
+        "İl": "İzmir",
+        "İlçe": "Konak",
+        "Mahalle": "Kültür",
+        "Ada": "1195",
+        "ParselNo": "16",
+        "Alan": "574,00",
+        "Pafta": "182",
+        "Nitelik": "Arsa",
+        "Mevkii": ""
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -1503,6 +1558,7 @@
     }
   ]
 }
+
 
 
 
