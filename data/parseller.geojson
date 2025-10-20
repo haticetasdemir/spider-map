@@ -86,6 +86,63 @@
         "Mevkii": ""
         }
       },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [27.19483,38.45801],
+            [27.19451,38.45795],
+            [27.19413,38.45789],
+            [27.19413,38.4577],
+            [27.19485,38.45782],
+            [27.19483,38.45801]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Cemre Apartmanı",
+        "İl": "İzmir",
+        "İlçe": "Bayraklı",
+        "Mahalle": "Mansuroğlu",
+        "Ada": "3931",
+        "ParselNo": "3",
+        "Alan": "1.325,00",
+        "Pafta": "",
+        "Nitelik": "Arsa",
+        "Mevkii": ""
+        }
+      },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [27.1874,38.45965],
+            [27.18695,38.45946],
+            [27.1872,38.45908],
+            [27.18761,38.45928],
+            [27.18754,38.4594],
+            [27.1875,38.45946],
+            [27.1874,38.45965]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Özkanlar 32",
+        "İl": "İzmir",
+        "İlçe": "Bayraklı",
+        "Mahalle": "Manavkuyu",
+        "Ada": "68",
+        "ParselNo": "119",
+        "Alan": "2.008,00",
+        "Pafta": "15",
+        "Nitelik": "Arsa",
+        "Mevkii": ""
+        }
+      },
     {
       "type": "Feature",
       "geometry": {
@@ -1729,6 +1786,7 @@
     }
   ]
 }
+
 
 
 
